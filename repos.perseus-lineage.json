@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/ysqspdk/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
+      "name": "LineageOS-perseus",
+      "repo": "https://github.com/ysqspdk/android_kernel_xiaomi_sdm845",
+      "branch": "lineage-20",
       "device": "perseus",
-      "defconfig": "perseus_user_defconfig"
+      "defconfig": "defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
