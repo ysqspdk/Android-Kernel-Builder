@@ -5,7 +5,7 @@
       "repo": "https://github.com/ysqspdk/android_kernel_xiaomi_sdm845",
       "branch": "lineage-20",
       "device": "perseus",
-      "defconfig": "sdm845-defconfig"
+      "defconfig": "sdm845_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
