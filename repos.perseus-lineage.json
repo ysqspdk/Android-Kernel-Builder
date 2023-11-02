@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "LineageOS-perseus",
-      "repo": "https://github.com/ysqspdk/android_kernel_xiaomi_sdm845",
-      "branch": "lineage-20",
-      "device": "perseus",
-      "defconfig": "sdm845_defconfig"
+      "name": "ArrowOS-MiPa",
+      "repo": "https://github.com/ArrowOS-MiPa-Edition/android_kernel_xiaomi_alioth",
+      "branch": "arrow-13.1",
+      "device": "alioth",
+      "defconfig": "alioth_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
