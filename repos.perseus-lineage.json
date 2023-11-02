@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "ArrowOS-MiPa",
-      "repo": "https://github.com/ArrowOS-MiPa-Edition/android_kernel_xiaomi_alioth",
-      "branch": "arrow-13.1",
-      "device": "alioth",
-      "defconfig": "alioth_defconfig"
+      "name": "perseus",
+      "repo": "https://github.com/lolipuru/kernel_xiaomi_perseus/",
+      "branch": "main",
+      "device": "perseus",
+      "defconfig": "sdm845_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
